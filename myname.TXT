@@ -1,2 +1,1 @@
-My name is LiSai!
-Hello World
+My name is LiSai! Hello World
